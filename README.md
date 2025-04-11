@@ -56,7 +56,7 @@ my journey with this relationship on my social media platforms:
 
 ### 📊 Stats
 
-![ItsDkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdkey&show_icons=true&theme=gruvbox)
+![ItsDkey's GitHub stats](https://github-readme-stats-roan-rho-68.vercel.app/api?username=itsdkey&show_icons=true&theme=tokyonight)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=itsdkey&theme=gruvbox&border_radius=4.5) -->
 
