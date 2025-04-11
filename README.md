@@ -64,13 +64,14 @@ my journey with this relationship on my social media platforms:
 
 <details>
  <summary><h3>👨‍💻 ItsDKey's Coding Journey</h3></summary>
-   I started my coding journey as a when I first wanted to have my own Tibia Open Server. It all started with writing 
-(more reading) simple C++ scripts that the server then runs. After junior-high I decided to pick a computer-science orientated 
-class in to high-school. There I learned the basics HTML, CSS (I was an admin on a simple webpage game) and other stuff
-like C++, algorithm, maths and so on. After graduating from high school I applied to collage to study computer science. 
-With loads of motivation I learned everything I could about this programming world - code, unix, linux, theory. 
-And all the while, teaching myself Java development with a dream to build my app, but soon got overshadowed by my 
-desire to excel in Python. A desire that landed me a software engineering job before graduation.
+   My coding journey began with a dream of running my own Tibia Open Server. I started by writing (well, mostly reading) simple C++ scripts that the server could execute.
+   After junior high, I chose a computer science-focused class in high school, where I learned the basics of HTML and CSS (I was also an admin for a small browser game), 
+   along with C++, algorithms, math, and more.
+
+   After graduation, I went on to study computer science at university. Full of motivation, I dove deep into the world of programming—learning everything I could about code, 
+   Unix/Linux systems, and computer science theory. During that time, I also started teaching myself Java with the dream of building my own app. But before long, 
+   I found myself completely drawn to Python, which quickly became my language of choice. 
+   That passion eventually led to my first job as a software engineer—even before finishing my degree.
 
 </details>
 
